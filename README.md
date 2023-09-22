@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on real life ...  
 - 😄 Pronouns: He / Him or Raindeer ...  
 
-- 🌐 Website: [Project_Systria](systria.sytes.net)
+- 🌐 Website: systria.sytes.net
 
 <!-- ![Hello](https://vercel.celsiusnarhwal.dev/api/dhominickj/dhominickj) -->
 
